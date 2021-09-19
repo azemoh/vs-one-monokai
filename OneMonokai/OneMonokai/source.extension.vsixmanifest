@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="One_Monokai.c1e81888-7b35-494e-852b-9c8101a548d9" Version="1.0" Language="en-US" Publisher="Joshua Azemoh" />
-        <DisplayName>One Monokai</DisplayName>
-        <Description>Visual Studio Theme</Description>
+        <Identity Id="One_Monokai.c1e81888-7b35-494e-852b-9c8101a548d9" Version="1.1" Language="en-US" Publisher="Joshua Azemoh" />
+        <DisplayName>One Monokai VS Theme</DisplayName>
+        <Description xml:space="preserve">One Monokai Visual Studio Theme</Description>
+        <MoreInfo>https://github.com/azemoh/vs-one-monokai</MoreInfo>
         <License>LICENSE.txt</License>
         <Icon>icon.png</Icon>
         <PreviewImage>Preview.png</PreviewImage>
